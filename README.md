@@ -9,7 +9,7 @@
 ### Skills:
 C / C++ / Java / HTML
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifalim)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifalim&theme=dark&layout=compact&align=right&width=40%)](https://github.com/asifalim/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asifalim&show_icons=true)  
 
