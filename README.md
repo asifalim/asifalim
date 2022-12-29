@@ -1,5 +1,6 @@
 ### Hi there, I'm Alim Uddin Asif <img src="https://raw.githubusercontent.com/ankitpriyarup/ankitpriyarup/master/Hi.gif" width="30px"></h3>
 <img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/ankitpriyarup/ankitpriyarup/master/coder.gif" />
+
 #### I am a competitive programmer
 <a href="https://codeforces.com/profile/asifalim">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
