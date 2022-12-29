@@ -1,14 +1,12 @@
 ### Hi there, I'm Alim Uddin Asif 👋
 #### I am a competitive programmer
-![I am a competitive programmer](https://raw.githubusercontent.com/ankitpriyarup/ankitpriyarup/master/coder.gif)
+![I am a competitive programmer](https://raw.githubusercontent.com/asifalim/asifalim/master/coder.gif)
 ### About me
 - [facebook/Asif Alim](https://www.facebook.com/profile.php?id=100006162766396)
 - [linkedin/asif alim](https://www.linkedin.com/in/asif-alim-a24b1b1a7/)
 - [Portfolio](https://asifalim.github.io/Portfolio_project/)
 
 Skills: C / C++ / Java  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifalim)](https://github.com/anuraghazra/github-readme-stats)
 
