@@ -13,6 +13,6 @@ C / C++ / Java / HTML
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asifalim&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=asifalim)  
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asifalim&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
 
 ![Profile views](https://gpvc.arturio.dev/asifalim)  
