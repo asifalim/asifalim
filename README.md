@@ -6,7 +6,8 @@
 - [linkedin/asif alim](https://www.linkedin.com/in/asif-alim-a24b1b1a7/)
 - [Portfolio](https://asifalim.github.io/Portfolio_project/)
 
-Skills: C / C++ / Java  
+### Skills:
+C / C++ / Java / HTML
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifalim)](https://github.com/anuraghazra/github-readme-stats)
 
