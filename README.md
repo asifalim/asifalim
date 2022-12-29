@@ -6,6 +6,9 @@
 <a href="https://www.codechef.com/users/asif_alim">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
+<a href="https://lightoj.com/user/asifalim">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/lightoj.svg" />
+</a>
 <br />
 
 ### About me
