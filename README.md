@@ -3,9 +3,10 @@
 <a href="https://codeforces.com/profile/asifalim">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
-<a href="https://codechef.com/profile/asif_alim">
+<a href="https://www.codechef.com/users/asif_alim">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
+
 <br />
 ### About me
 - [facebook/Asif Alim](https://www.facebook.com/profile.php?id=100006162766396)
