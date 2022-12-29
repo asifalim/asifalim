@@ -11,7 +11,7 @@ C / C++ / Java / HTML
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifalim&theme=dark&layout=compact&align=right&width=40%)](https://github.com/asifalim/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=asifalim&show_icons=true)  
+![GitHub stats]https://github-readme-stats.vercel.app/api?username=asifalim&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asifalim&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
 
