@@ -1,6 +1,11 @@
 ### Hi there, I'm Alim Uddin Asif <img src="https://raw.githubusercontent.com/ankitpriyarup/ankitpriyarup/master/Hi.gif" width="30px"></h3>
 #### I am a competitive programmer
-![I am a competitive programmer](https://raw.githubusercontent.com/ankitpriyarup/ankitpriyarup/master/coder.gif)
+<a href="https://codeforces.com/profile/asifalim">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+</a>
+<a href="https://codechef.com/profile/asif_alim">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
 ### About me
 - [facebook/Asif Alim](https://www.facebook.com/profile.php?id=100006162766396)
 - [linkedin/asif alim](https://www.linkedin.com/in/asif-alim-a24b1b1a7/)
