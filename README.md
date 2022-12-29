@@ -1,4 +1,4 @@
-### Hi there, I'm Alim Uddin Asif 👋</h3>
+### Hi there, I'm Alim Uddin Asif <img src="https://raw.githubusercontent.com/ankitpriyarup/ankitpriyarup/master/Hi.gif" width="30px"></h3>
 #### I am a competitive programmer
 ![I am a competitive programmer](https://raw.githubusercontent.com/ankitpriyarup/ankitpriyarup/master/coder.gif)
 ### About me
