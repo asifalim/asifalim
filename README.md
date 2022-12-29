@@ -2,6 +2,7 @@
 <br />
 <img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/ankitpriyarup/ankitpriyarup/master/coder.gif" />
 <br>
+
 #### I am a competitive programmer
 <a href="https://codeforces.com/profile/asifalim">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
