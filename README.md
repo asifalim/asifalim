@@ -20,7 +20,7 @@
 - [Portfolio](https://asifalim.github.io/Portfolio_project/)
 
 ### Skills:
-C / C++ / Java / HTML
+C / C++ / C# / Java / Python / HTML / CSS
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifalim&theme=dark&layout=compact&align=right&width=40%)](https://github.com/asifalim/github-readme-stats)
 
