@@ -28,4 +28,4 @@ C / C++ / C# / Java / Python / HTML / CSS
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asifalim&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
 
-![Profile views](![](https://komarev.com/ghpvc/?asifalim&abbreviated=true))  
+![Profile views](https://komarev.com/ghpvc/?asifalim&abbreviated=true)
