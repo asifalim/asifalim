@@ -15,7 +15,7 @@
 <br>
 
 ### About me
-- ![Asif Alim](https://github.com/user-attachments/assets/b9d6f09c-a818-499c-88af-3abfcfce5e01)
+- <a href="https://www.facebook.com/profile.php?id=100006162766396" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Asif Alim" height="30" width="40" /></a>
 - [linkedin/asif alim](https://www.linkedin.com/in/alim-uddin-asif-a24b1b1a7/)
 - [Portfolio](https://asifalim.github.io/Portfolio_project/)
 
