@@ -11,7 +11,10 @@
 <a href="https://lightoj.com/user/asifalim">
   <img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/128/3097/3097061.png" />
 </a>
-<a href="https://leetcode.com/u/Asif_Alim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Asif_Alim" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Asif_Alim/"> 
+  <img align="left" width="22px" src="(https://github.com/user-attachments/assets/aad81e00-82f6-4ab8-b1bf-a8b26da4790b)
+" />
+</a>
 <br />
 <br>
 
