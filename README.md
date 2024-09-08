@@ -15,7 +15,9 @@
 <br>
 
 ### About me
-- [facebook/Asif Alim](https://www.facebook.com/profile.php?id=100006162766396)
+- <a href="https://www.facebook.com/profile.php?id=100006162766396">
+  <i class="fa-brands fa-facebook"></i>
+</a>
 - [linkedin/asif alim](https://www.linkedin.com/in/alim-uddin-asif-a24b1b1a7/)
 - [Portfolio](https://asifalim.github.io/Portfolio_project/)
 
