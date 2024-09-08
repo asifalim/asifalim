@@ -16,7 +16,7 @@
 
 ### About me
 - [facebook/Asif Alim](https://www.facebook.com/profile.php?id=100006162766396)
-- [linkedin/asif alim](https://www.linkedin.com/in/asif-alim-a24b1b1a7/)
+- [linkedin/asif alim](https://www.linkedin.com/in/alim-uddin-asif-a24b1b1a7/)
 - [Portfolio](https://asifalim.github.io/Portfolio_project/)
 
 ### Skills:
@@ -28,4 +28,4 @@ C / C++ / C# / Java / Python / HTML / CSS
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asifalim&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
 
-![Profile views](https://gpvc.arturio.dev/asifalim)  
+![Profile views](![](https://komarev.com/ghpvc/?username=asifalim&abbreviated=true))  
