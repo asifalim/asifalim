@@ -12,7 +12,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Asif_Alim" height="30" width="40" />
 </a>
 <br><br>
-<b></b><a href="https://github.com/asifalim/ProblemSolvingStatistics">All OJ Profile</a></b>
+</b><a href="https://github.com/asifalim/ProblemSolvingStatistics"><b></b>All OJ Profile</b></a>
 <br>
 
 ### About me
