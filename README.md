@@ -5,8 +5,8 @@
 <a href="https://codeforces.com/profile/asifalim" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Asif Alim" height="30" width="40" />
 </a>
-<a href="https://www.codechef.com/users/asif_alim">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+<a href="https://www.codechef.com/users/asif_alim" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="asif_alim" height="30" width="40" />
 </a>
 <a href="https://leetcode.com/u/Asif_Alim/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Asif_Alim" height="30" width="40" /></a>
