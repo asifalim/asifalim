@@ -11,8 +11,8 @@
 <a href="https://leetcode.com/u/Asif_Alim/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Asif_Alim" height="30" width="40" />
 </a>
-<a href="https://github.com/asifalim/ProblemSolvingStatistics">All OJ with solve count</a>
-<br />
+<br>
+<a href="https://github.com/asifalim/ProblemSolvingStatistics">All OJ Profile</a>
 <br>
 
 ### About me
