@@ -2,14 +2,14 @@
 <img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/ankitpriyarup/ankitpriyarup/master/coder.gif" />
 
 #### I am a competitive programmer
-<a href="https://codeforces.com/profile/asifalim">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+<a href="https://codeforces.com/profile/asifalim" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Asif Alim" height="30" width="40" />
 </a>
 <a href="https://www.codechef.com/users/asif_alim">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 <a href="https://leetcode.com/u/Asif_Alim/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Asif" height="30" width="40" /></a>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Asif_Alim" height="30" width="40" /></a>
 <a href="https://lightoj.com/user/asifalim">
   <img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/128/3097/3097061.png" />
 </a>
