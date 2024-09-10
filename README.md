@@ -9,9 +9,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="asif_alim" height="30" width="40" />
 </a>
 <a href="https://leetcode.com/u/Asif_Alim/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Asif_Alim" height="30" width="40" /></a>
-<a href="https://lightoj.com/user/asifalim">
-  <img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/128/3097/3097061.png" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Asif_Alim" height="30" width="40" />
 </a>
 <br />
 <br>
